@@ -47,7 +47,7 @@ const config: Config = {
                customCss: "./src/css/custom.css",
             },
             gtag: {
-               trackingID: "G-PTLCNENXEL",
+               trackingID: "G-XY5DBZKNR8",
                anonymizeIP: true,
             },
          } satisfies Preset.Options,
